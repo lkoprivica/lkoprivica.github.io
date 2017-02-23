@@ -1,5 +1,8 @@
 ---
 ---
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+
 // External
 @import 'external/reset';
 @import 'external/syntax';
@@ -16,3 +19,6 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+@import '../css/home';
+

@@ -2,7 +2,8 @@
 layout: post
 title: Bloc-Jams Case Study 
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/bloc_jams_bg.jpg"
+site-link: "http://bloc-jams-1.netlify.com"
 short-description: BlocJams for iOS is Great!
 
 ---
